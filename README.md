@@ -201,7 +201,7 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 
 ### 2025
 
-[X] 1. **[JudgeLRM: Large Reasoning Models as a Judge.](https://arxiv.org/abs/2504.00050)**
+1. [X] **[JudgeLRM: Large Reasoning Models as a Judge.](https://arxiv.org/abs/2504.00050)**
 
     *Nuo Chen, Zhiyuan Hu, Qingyun Zou, Jiaying Wu, Qian Wang, Bryan Hooi, Bingsheng He.* Preprint'25
    
