@@ -205,7 +205,7 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 
     *Nuo Chen, Zhiyuan Hu, Qingyun Zou, Jiaying Wu, Qian Wang, Bryan Hooi, Bingsheng He.* Preprint'25
    
-1. **[Dynamic Benchmarking of Reasoning Capabilities in Code Large Language Models Under Data Contamination.](https://arxiv.org/abs/2503.04149)** [[code](https://codekaleidoscope.github.io/dycodeeval.html)]
+1. [X] **[Dynamic Benchmarking of Reasoning Capabilities in Code Large Language Models Under Data Contamination.](https://arxiv.org/abs/2503.04149)** [[code](https://codekaleidoscope.github.io/dycodeeval.html)]
 
     *Simin Chen, Pranav Pusarla, Baishakhi Ray.* ICML'25
 
