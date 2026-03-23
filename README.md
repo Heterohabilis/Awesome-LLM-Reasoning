@@ -213,7 +213,7 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 
     *Debangshu Banerjee, Tarun Suresh, Shubham Ugare, Sasa Misailovic, Gagandeep Singh.* ICML'25
 
-1. **[Sketch-of-Thought: Efficient LLM Reasoning with Adaptive Cognitive-Inspired Sketching.](https://arxiv.org/abs/2503.05179)** [[code](https://www.github.com/SimonAytes/SoT)]
+1. [X] **[Sketch-of-Thought: Efficient LLM Reasoning with Adaptive Cognitive-Inspired Sketching.](https://arxiv.org/abs/2503.05179)** [[code](https://www.github.com/SimonAytes/SoT)]
 
     *Simon A. Aytes, Jinheon Baek, Sung Ju Hwang.* Preprint'25
 
